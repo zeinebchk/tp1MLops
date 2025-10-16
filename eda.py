@@ -4,4 +4,8 @@ class user{
     name,
     firstname,
     lastname,numtel,adresse
+    def function(){
+        print("cc zeineb")
+        print("helloo")
+    }    
 }
