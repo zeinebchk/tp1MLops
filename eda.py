@@ -2,5 +2,5 @@ import pandas as pd\ndf = pd.read_csv('data.csv')\nprint(df.head())
 class user{
     name,
     firstname,
-    lastname
+    lastname,numtel,adresse
 }
