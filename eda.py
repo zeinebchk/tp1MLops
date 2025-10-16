@@ -1,4 +1,7 @@
 import pandas as pd\ndf = pd.read_csv('data.csv')\nprint(df.head())
-class abcd{
-    
+
+class user{
+    name,
+    firstname,
+    lastname,numtel,adresse
 }
